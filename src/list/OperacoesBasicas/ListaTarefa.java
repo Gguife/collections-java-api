@@ -1,4 +1,4 @@
-package OperacoesBasicas;
+package list.OperacoesBasicas;
 
 import java.util.List;
 import java.util.ArrayList;
